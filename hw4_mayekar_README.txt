@@ -1,4 +1,4 @@
-https://github.com/PratikshaMayekar/Alteryx.git
+my github link    https://github.com/PratikshaMayekar/Alteryx.git
 
 1.  Converted csv files of four tables provided for capstone project
 2.  Input Data => four csv files
