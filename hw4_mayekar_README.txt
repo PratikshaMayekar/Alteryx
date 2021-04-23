@@ -6,7 +6,7 @@ Sales_week table
 Datatime tool => Converted "Date" column to date data type with new column "Start Date"
 Multifield formula => Added "w" in week0 column
 Multifield formula => Added new filed for End date
-Multifirld formula => Added Quarter inplace of quarter number
+Multifield formula => Added Quarter inplace of quarter number
 
 Sales_history table
 
@@ -27,7 +27,7 @@ Sales_product
 	---------------
 	Transpose => converted product table in tabular format to get price of each quarter for the given item code
 	AutoField => fixed column sizes and datatypes
-	select  => prodcut code information with correct alias
+	select  => product code information with correct alias
 
 	ESP_code table
 	--------------
@@ -46,7 +46,7 @@ Join4 : Join2 and ESP_code on (ItemCode)
 Question1 Demo
 -------------
 Merge tool => Join3 + Join4
-Multifield formual => calculate total price (Qty * price)
+Multifield formula => calculate total price (Qty * price)
 datetime tool => convert start and end date to String and correct Alias
 select => Question1 final output with the correct column order and names
 
